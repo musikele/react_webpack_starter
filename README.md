@@ -9,7 +9,7 @@ You will have support for:
 
 ## Getting started
 
-Make sure you have installed Node than install global npm packages with:
+Make sure you have installed Node and cloned this repo than install global npm packages with:
 
 ```
 npm setup
