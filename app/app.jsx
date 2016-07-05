@@ -1,6 +1,8 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
-var Greeting = require('./greeting');
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+//components
+import Greeting from './greeting';
 
 
 ReactDOM.render(

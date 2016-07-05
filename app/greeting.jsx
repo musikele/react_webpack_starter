@@ -1,6 +1,6 @@
-var React = require('react');
+import React from 'react';
 
-var Greeting = React.createClass({
+const Greeting = React.createClass({
 
   render: function() {
     return (
