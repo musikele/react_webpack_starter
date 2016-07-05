@@ -28,3 +28,21 @@ npm start
 ```
 
 Open the dev server at [http://localhost:8080/](http://localhost:8080/) and enjoy.
+
+## Added by musikele: 
+
+- ESLint support. 
+
+some files contain more helpers. 
+
+these files are needed if you want to use Visual Studio Code and Typings (to get content assisting): 
+
+- `typings/globals/react/typings.json`
+- `typings/globals/react/index.d.ts`
+- `typings/index.d.ts`
+- `jsconfig.json` 
+
+You can delete them if you don't plan to use them.
+ 
+In this file there is a EsLint configuration: 
+- `.eslintrc.json` 
